@@ -1,0 +1,43 @@
+# RStudio Folder
+.RData
+.Rhistory
+**.Rproj
+.Rproj.user
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# =========================
+# Operating System Files
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+# Icon must ends with two \r.
+Icon
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+.Rproj.user
+inst/doc
+.RData
+*.Rhistory
+*.RData
+.Rhistory
+.Rproj.user/7A0DA9F8/sdb/prop/INDEX
+.Rproj.user/*
+*.Rproj.user
+.Rproj.user
+# files created by tests
+tests/testthat/tmp.txt
+tmp.feather
