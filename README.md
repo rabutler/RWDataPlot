@@ -1,10 +1,6 @@
 ## RWDataPlot
 
-|repostatus| to `https://www.github.com/BoulderCodeHub/RWDataPlyr <https://www.github.com/BoulderCodeHub/RWDataPlyr>`_
-
-.. |repostatus| image:: http://www.repostatus.org/badges/latest/moved.svg
-   :alt: Project Status: Moved to https://www.github.com/BoulderCodeHub/RWDataPlyr – The project has been moved to a new location, and the version at that location should be considered authoritative.
-   :target: http://www.repostatus.org/#moved
+[![Project Status: Moved to https://www.github.com/BoulderCodeHub/RWDataPlyr – The project has been moved to a new location, and the version at that location should be considered authoritative.](http://www.repostatus.org/badges/latest/moved.svg)](http://www.repostatus.org/#moved) New Location: [BoulderCodeHub/RWDataPlyr](https://www.github.com/BoulderCodeHub/RWDataPlyr)
 
 Contains R package to read, manipulate, and plot data from RiverWareTM (riverware.org), that are saved as rdf (RiverWare data format) files.  
 
